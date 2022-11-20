@@ -1,4 +1,4 @@
 name: myfirst-plugin
-main: de.erik.minecraft.myfirst-plugin.Plugin
+main: de.erik.minecraft.Plugin
 version: 0.0.1-SNAPSHOT
-api-version: 1.15
+api-version: 1.19
